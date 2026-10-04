@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, my name is Veronika 👋
 
-<!--
-**veronika-mikhailova/veronika-mikhailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 19 years old, live in Irkutsk, and study at ISU in my 2nd year. In the future, I am going to be an IT specialist.
 
-Here are some ideas to get you started:
+### 🛠️ Technology Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql,figma,linux,photoshop&theme=light&perline=5)
+
+### 📂 My Repositories
+
+### 📫 My Contacts
+
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/veronikamikhailova1)
