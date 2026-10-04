@@ -1,4 +1,4 @@
-## ˚｡⋆୨୧˚ Hi there, my name is Veronika ˚｡⋆୨୧˚
+## ˚୨୧⋆｡˚ Hi there, my name is Veronika ˚｡⋆୨୧˚
 
 I am 19 years old, live in Irkutsk, and study at ISU in my 2nd year. In the future, I am going to be an IT specialist.
 
