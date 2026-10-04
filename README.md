@@ -4,7 +4,7 @@ I am 19 years old, live in Irkutsk, and study at ISU in my 2nd year. In the futu
 
 ### 🛠️ Technology Stack
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql,figma,linux,photoshop&theme=light&perline=5)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,figma,linux,photoshop&theme=light&perline=5)
 
 ### 📂 My Repositories
 
